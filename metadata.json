@@ -1,0 +1,8 @@
+{
+  "name": "CuraQueuess- Clinical OS",
+  "description": "Real-time healthcare appointment booking, multi-clinic telemetry, dynamic waiting time estimation, and queue management system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
